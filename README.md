@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I used to do investigative journalism to impact society positively. I still do it, but now I added some codes to suffer a little bit less during the tasks.
+I used to do investigative journalism to impact society positively. I still do it, but now I have learned some coding to find better stories and work in networks (and also suffer a little bit less during the tasks).
 
 Stories I've written helped to save millions in public funds and investigate illegal practices from individuals, companies and governments.
 
