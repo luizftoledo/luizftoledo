@@ -8,5 +8,5 @@ Stories I've written helped to [save millions in public funds](https://educacao.
 
 I hold a Masters Degree in Public Administration at FGV-EAESP (Sao Paulo/Brazil) and pursue a [Master of Science in Data Journalism at Columbia University (New York/USA)](https://journalism.columbia.edu/ms-data-journalism)
 
-- 📫 How to reach me: ... twitter.com/toledoluizf or toledo.luiz@columbia.edu
+- 📫 How to reach me: ... [twitter.com/toledoluizf](https://twitter.com/toledoluizf) or toledo.luiz@columbia.edu
 - If you want to read my stories or projects, visit my [portfolio](https://www.luizftoledo.com/).
