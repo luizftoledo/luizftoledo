@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I used to do investigative journalism by talking to lots of people and reading hundreds of documents. I still do it, but now I have learned some code to find more stories and collaborate with data-driven projects. I'm here to share and learn more about coding for journalism and public accountability.
+I used to do investigative journalism by talking to lots of people and reading hundreds of documents. I still do it, but now I have learned some code to collaborate with cross-border and data-driven projects. I'm here to share and learn more about coding for journalism and public accountability.
 
 Stories I've written helped to [save millions in public funds](https://educacao.estadao.com.br/noticias/geral,denuncia-do-estado-faz-prefeitura-abrir-nova-licitacao-e-economizar-r-15-2-mi,1608767) and investigate illegal practices from individuals, companies and governments.
 
